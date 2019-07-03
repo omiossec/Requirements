@@ -43,7 +43,7 @@ $requirements = @(
 )
 ```
 
-### Idempotently `Set`ting requirements 
+### Idempotently Setting requirements 
 Simply pipe an array of `Requirement`s to `Invoke-Requirement`
 
 ```powershell
@@ -94,7 +94,7 @@ $requirement = @{
     ModuleName   = "PSDesiredStateConfiguration"
     Property     = @{
         Contents        = "Hello World"
-        DestinationFile = "C:\myFile.txt"
+        DestinationPath = "C:\myFile.txt"
         Force           = $true
     }
 }
