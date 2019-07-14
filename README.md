@@ -3,7 +3,6 @@ Requirements is a PowerShell Gallery module for declaratively describing a syste
 
 The background motivation and implementation design are discussed in detail in [Declarative Idempotency](https://itnext.io/declarative-idempotency-aaa07c6dd9a0?source=friends_link&sk=f0464e8e29525b23aabe766bfb557dd7).
 
-
 [![Build status](https://dev.azure.com/om-ps-requirements/om-ps-requirements/_apis/build/status/om-ps-requirements-CI)](https://dev.azure.com/om-ps-requirements/om-ps-requirements/_build/latest?definitionId=-1)
 
 
